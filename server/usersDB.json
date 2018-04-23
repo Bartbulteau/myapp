@@ -1,0 +1,12 @@
+{
+    "users": [
+        {
+            "name": "Barthélémy Bulteau",
+            "email": "barthelemy@bulteau.com"
+        },
+        {
+            "name": "Josephine Bulteau",
+            "email": "josephine@bulteau.com"
+        }
+    ]
+}
