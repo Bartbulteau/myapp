@@ -3,11 +3,11 @@ A REST API (ExpressJS) with a VueJS client
 
 ## Run the app:
 
-- Open terminal
+- Open terminal :-
 cd server
 node server
 
-- Open another terminal:
+- Open another terminal :-
 cd client
 npm run dev
 
